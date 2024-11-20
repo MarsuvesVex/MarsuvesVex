@@ -5,24 +5,24 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...`
 - ⚡ Fun fact: ...
-
-1`
-
-
-
-test
 <!---
 MarsuvesVex/MarsuvesVex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
+![Twitch Status](https://img.shields.io/twitch/status/marsuvesvex?style=social&logo=twitch&logoColor=%236319e5&label=MarsuvesVex&labelColor=black&color=%236319e5&cacheSeconds=3600&link=https%3A%2F%2Fwww.twitch.tv%2Fmarsuvesvex)
+
 
 
 ---
-<h1 align="center"> Hi 👋🏻, I'm Hamish </br></h1>
+
+<h1 align="center"> Hi 👋🏻, I'm Hamish <br>
+<img alt="Twitch Status" src="https://img.shields.io/twitch/status/marsuvesvex?style=social&logo=twitch&logoColor=%236319e5&label=MarsuvesVex&labelColor=black&color=%236319e5&cacheSeconds=3600&link=https%3A%2F%2Fwww.twitch.tv%2Fmarsuvesvex">
+</br></h1>
 <p align="center">I Can never think of Subtitles! ⚡</p>
 <p align="center">Prnding updating both this and my blog subtitle 🚀</p>
 <p align="center">
+
  <a href="https://www.buymeacoffee.com/" target="_blank"><img alt="" src="https://img.shields.io/badge/kawfee-61ffca?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000" style="vertical-align:center" /></a>
  <a href="https://youtube.com" target="_blank"><img alt="" src="https://img.shields.io/badge/Youtube-000?logo=youtube&logoColor=6319e5&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://twitter.com/" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=6319e5&style=for-the-badge" style="vertical-align:center" /></a>
@@ -43,10 +43,14 @@ You can click the Preview link to take a look at your changes.
 ![Git](https://img.shields.io/badge/git-%23000.svg?style=for-the-badge&logo=git&logoColor=61ffca)
 
 
-[![Spotify](https://novatorem-git-main-marsuvesvexs-projects.vercel.app/api/spotify)](https://open.spotify.com/user/31hjqbmtekify3cpkryz7lvzjanu)
-[![Youtube]([/youtube/recent-videos/UCKxQmKgrkUv4S7P5w0pLayw](http://localhost:5000/youtube/recent-videos/UCKxQmKgrkUv4S7P5w0pLayw))](https://open.spotify.com/user/31hjqbmtekify3cpkryz7lvzjanu)
+![Spotify](https://novatorem-git-main-marsuvesvexs-projects.vercel.app/api/spotify)
+![Spotify](http://localhost:5000/api/spotify)
 
-[![Youtube](http://localhost:5000/youtube/recent-videos/UCQeRaTukNYft1_6AZPACnog?background_color=181414&border_color=282828)]
+
+[![Youtube](https://novatorem-git-main-marsuvesvexs-projects.vercel.app/youtube/recent-videos/UCsBjURrPoezykLs9EqgamOA)
+[![Youtube](https://localhost:5000/youtube/recent-videos/UCsBjURrPoezykLs9EqgamOA)]
+
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hamishfleming&currStreakNum=61ffca&hide_border=false&border=8464c6&background=000&sideLabels=adbac7&stroke=adbac7&ring=6319e5&fire=61ffca&sideNums=61ffca&currStreakLabel=61ffca&dates=6319e5)<br/>
 
 ![](https://github-readme-stats.vercel.app/api?username=hamishFleming&show_icons=true&include_all_commits=true&count_private=true&title_color=61ffca&text_color=adbac7&icon_color=6319e5&border_color=8464c6&bg_color=000)<br/>
