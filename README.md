@@ -44,7 +44,7 @@ You can click the Preview link to take a look at your changes.
 
 
 [![Spotify](https://novatorem-git-main-marsuvesvexs-projects.vercel.app/api/spotify)](https://open.spotify.com/user/31hjqbmtekify3cpkryz7lvzjanu)
-[![Youtube]([https://novatorem-git-main-marsuvesvexs-projects.vercel.app/api/spotify](http://localhost:5000/youtube/recent-videos/UCKxQmKgrkUv4S7P5w0pLayw))](https://open.spotify.com/user/31hjqbmtekify3cpkryz7lvzjanu)
+[![Youtube]([/youtube/recent-videos/UCKxQmKgrkUv4S7P5w0pLayw](http://localhost:5000/youtube/recent-videos/UCKxQmKgrkUv4S7P5w0pLayw))](https://open.spotify.com/user/31hjqbmtekify3cpkryz7lvzjanu)
 
 [![Youtube](http://localhost:5000/youtube/recent-videos/UCQeRaTukNYft1_6AZPACnog?background_color=181414&border_color=282828)]
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hamishfleming&currStreakNum=61ffca&hide_border=false&border=8464c6&background=000&sideLabels=adbac7&stroke=adbac7&ring=6319e5&fire=61ffca&sideNums=61ffca&currStreakLabel=61ffca&dates=6319e5)<br/>
