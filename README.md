@@ -10,14 +10,13 @@ MarsuvesVex/MarsuvesVex is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-![Twitch Status](https://img.shields.io/twitch/status/marsuvesvex?style=social&logo=twitch&logoColor=%236319e5&label=MarsuvesVex&labelColor=black&color=%236319e5&cacheSeconds=3600&link=https%3A%2F%2Fwww.twitch.tv%2Fmarsuvesvex)
-
-
 
 ---
 
-<h1 align="center"> Hi 👋🏻, I'm Hamish <br>
+<h1 align="center"> Hi 👋🏻, I'm Hamish 
 <img alt="Twitch Status" src="https://img.shields.io/twitch/status/marsuvesvex?style=social&logo=twitch&logoColor=%236319e5&label=MarsuvesVex&labelColor=black&color=%236319e5&cacheSeconds=3600&link=https%3A%2F%2Fwww.twitch.tv%2Fmarsuvesvex">
+	<br>
+	<img alt="Discord" src="https://img.shields.io/discord/1308772125120794654?style=social&logo=discord&logoColor=6319e5&labelColor=000&color=61ffca">
 </br></h1>
 <p align="center">I Can never think of Subtitles! ⚡</p>
 <p align="center">Prnding updating both this and my blog subtitle 🚀</p>
@@ -28,6 +27,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://twitter.com/" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=6319e5&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://linkedin.com/in/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=6319e5&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://instagram.com/" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=6319e5" style="vertical-align:center" /></a></p>
+
 
 <!-- # 💫 About Me:
 
