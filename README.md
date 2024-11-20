@@ -10,7 +10,7 @@ MarsuvesVex/MarsuvesVex is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](#)
 ---
 
 <h1 align="center"> Hi 👋🏻, I'm Hamish 
