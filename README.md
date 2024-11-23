@@ -172,6 +172,22 @@ DenverCoder1 Icons
 </details>
 
 
+---
+<details open>
+  <summary><h2>Spotify Playing 🎧</h2></summary>
+
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31hjqbmtekify3cpkryz7lvzjanu&cover_image=true&theme=novatorem&show_offline=true&background_color=000&bar_color=630fb8" align="center" height="170" width="50%" >
+</details>
+
+<!--
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31hjqbmtekify3cpkryz7lvzjanu)
+
+[![Spotify](https://novatorem-git-main-marsuvesvexs-projects.vercel.app/api/spotify)](https://open.spotify.com/user/31hjqbmtekify3cpkryz7lvzjanu)
+-->
+---
+
 
 
   <!-- <summary> -->
@@ -223,10 +239,6 @@ No Activity tracked this Week
 
 ---
 
-<div class='container' align=center>
-<img src="https://komarev.com/ghpvc/?username=MarsuvesVex&label=Profile%20views&color=6319e5&style=flat" alt="supun nanayakkara" />
-</div>
-
 
 <details> 
   <summary><h2>📊 Stats and Activity</h2></summary>
@@ -258,22 +270,6 @@ No Activity tracked this Week
 </details>
 
 
----
-<details open>
-  <summary><h2>Spotify Playing 🎧</h2></summary>
-
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31hjqbmtekify3cpkryz7lvzjanu&cover_image=true&theme=novatorem&show_offline=true&background_color=000&bar_color=630fb8" align="center" height="170" width="50%" >
-</details>
-
-<!--
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31hjqbmtekify3cpkryz7lvzjanu)
-
-[![Spotify](https://novatorem-git-main-marsuvesvexs-projects.vercel.app/api/spotify)](https://open.spotify.com/user/31hjqbmtekify3cpkryz7lvzjanu)
--->
----
-
 ## 📬 Contact me
 
 <p align=center>
@@ -290,6 +286,10 @@ No Activity tracked this Week
         <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/gmail.svg" alt=gmail style="margin-bottom: 5px;" />
     </a>
 </p>
+<div class='container' align=center>
+<img src="https://komarev.com/ghpvc/?username=MarsuvesVex&label=Profile%20views&color=6319e5&style=flat" alt="supun nanayakkara" />
+</div>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
