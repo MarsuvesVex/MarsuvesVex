@@ -43,6 +43,12 @@ You can click the Preview link to take a look at your changes.
 ![Git](https://img.shields.io/badge/git-%23000.svg?style=for-the-badge&logo=git&logoColor=61ffca)
 
 
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31hjqbmtekify3cpkryz7lvzjanu)
+
+
 [![Spotify](https://novatorem-git-main-marsuvesvexs-projects.vercel.app/api/spotify)](https://open.spotify.com/user/31hjqbmtekify3cpkryz7lvzjanu)
 
 [![Youtube](http://localhost:5000/youtube/recent-videos/UCQeRaTukNYft1_6AZPACnog?background_color=181414&border_color=282828)]
