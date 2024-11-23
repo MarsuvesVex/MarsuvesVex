@@ -119,6 +119,7 @@ DenverCoder1 Icons
 -->
 
 
+
 <div align=center> 
 <details open> 
   <summary><h2>📺 Latest YouTube Videos</h2></summary>
@@ -142,7 +143,37 @@ DenverCoder1 Icons
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 <!-- </div> -->
----
+<hr>
+<details open> 
+  <summary><h2>🌠 Top Sponsors</h2></summary>
+
+  <table>
+    <tr>
+      <!-- <th>$10+/month</th> -->
+      <th>$5+/month</th>
+    </tr>
+    <tr>
+<!--       $10+/month -->
+      <!-- <td>
+        <div align="center">
+          <a href="https://github.com/username"><img src="https://github.com/username" alt="@username" width="52" /></a>
+          <br />
+          <a align="center" href="https://github.com/username"><b>Full Name</b></a>
+        </b>
+      </td> -->
+      <!-- $5+/month -->
+      <td>
+        <a href="https://github.com/typesense"><img src="https://custom-icon-badges.demolab.com/badge/-typesense-D90368?style=for-the-badge&logo=mention" alt="typesense" /></a>
+      </td>
+    </tr>
+  </table>
+
+  <a href="https://github.com/sponsors/MarsuvesVex/"><img alt="More about my sponsorship tiers" title="Sponsorship Tiers" src="https://custom-icon-badges.demolab.com/badge/-More%20About%20My%20Sponsorship%20Tiers-1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
+</details>
+
+
+
+
   <!-- <summary> -->
   <h2>📝 Latest Blog Posts</h2>
   <!-- </summary> -->
@@ -172,15 +203,6 @@ No Activity tracked this Week
   </p>
 </details> -->
 
-<details open>
-  <summary>
-  <h1>🎧 Latest Spotify Playing</h1>
-  </summary>
-  <p>
-
-[![Spotify](https://novatorem.hamishfleming.vercel.app/api/spotify)](https://open.spotify.com/user/21d7w7mz5z5g7m5v5z5g7m5v5)
-  </p>
-</details> -->
 <!--
 <details open>
   <summary>
@@ -195,10 +217,6 @@ No Activity tracked this Week
 
     </p>
   </details> -->
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&animation=grow_out_in&bg_color=ffffff&color=0d1117&&githubUser=HamishFleming&theme=dark&layout=socrates&font=Redressed)
-<!-- </div> -->
-
 <!-- ![](https://pagespeed-insights.herokuapp.com?url=blog.hamish-fleming.com) -->
 
 <!-- --- -->
@@ -206,11 +224,8 @@ No Activity tracked this Week
 ---
 
 <div class='container' align=center>
-
-[![](https://visitcount.itsvg.in/api?id=hamishfleming&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<img src="https://komarev.com/ghpvc/?username=MarsuvesVex&label=Profile%20views&color=6319e5&style=flat" alt="supun nanayakkara" />
 </div>
-
 
 
 <details> 
@@ -242,6 +257,23 @@ No Activity tracked this Week
 
 </details>
 
+
+---
+<details open>
+  <summary><h2>Spotify Playing 🎧</h2></summary>
+
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31hjqbmtekify3cpkryz7lvzjanu&cover_image=true&theme=novatorem&show_offline=true&background_color=000&bar_color=630fb8" align="center" height="170" width="50%" >
+</details>
+
+<!--
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31hjqbmtekify3cpkryz7lvzjanu)
+
+[![Spotify](https://novatorem-git-main-marsuvesvexs-projects.vercel.app/api/spotify)](https://open.spotify.com/user/31hjqbmtekify3cpkryz7lvzjanu)
+-->
+---
+
 ## 📬 Contact me
 
 <p align=center>
@@ -262,20 +294,3 @@ No Activity tracked this Week
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 
----
-
-### Spotify Playing 🎧
-
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31hjqbmtekify3cpkryz7lvzjanu&cover_image=true&theme=novatorem&show_offline=true&background_color=000&bar_color=630fb8" align="center" height="120" width="50%" >
-
-[![Spotify](https://novatorem-git-main-marsuvesvexs-projects.vercel.app/api/spotify)](https://open.spotify.com/user/31hjqbmtekify3cpkryz7lvzjanu)
-
-
-
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31hjqbmtekify3cpkryz7lvzjanu)
-
----
