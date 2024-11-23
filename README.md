@@ -178,7 +178,7 @@ DenverCoder1 Icons
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31hjqbmtekify3cpkryz7lvzjanu&cover_image=true&theme=novatorem&show_offline=true&background_color=000&bar_color=630fb8" align="center" height="170" width="50%" >
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31hjqbmtekify3cpkryz7lvzjanu&cover_image=true&theme=novatorem&show_offline=true&background_color=000&bar_color=630fb8" align="center" height="170" >
 </details>
 
 <!--
