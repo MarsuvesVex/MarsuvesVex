@@ -1,27 +1,29 @@
-- 👋 Hi, I’m @MarsuvesVex
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...`
-- ⚡ Fun fact: ...
 <!---
 MarsuvesVex/MarsuvesVex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](#)
 ---
 
-<h1 align="center"> Hi 👋🏻, I'm Hamish 
+<h1 align="center"> Hi 👋🏻, I'm Marsuves Vex 
 <img alt="Twitch Status" src="https://img.shields.io/twitch/status/marsuvesvex?style=social&logo=twitch&logoColor=%236319e5&label=MarsuvesVex&labelColor=black&color=%236319e5&cacheSeconds=3600&link=https%3A%2F%2Fwww.twitch.tv%2Fmarsuvesvex">
-	<br>
-	<img alt="Discord" src="https://img.shields.io/discord/1308772125120794654?style=social&logo=discord&logoColor=6319e5&labelColor=000&color=61ffca">
-</br></h1>
+<br>
+<p align="center">
+<img alt="Discord" src="https://img.shields.io/discord/1308772125120794654?style=social&logo=discord&logoColor=6319e5&labelColor=000&color=61ffca">
+ <img src="https://komarev.com/ghpvc/?username=MarsuvesVex&label=Profile%20views&color=6319e5&style=flat" alt="supun nanayakkara" />
+ <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97">
+</p>
+
+<!---
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](#)
+[![Youtube](https://img.shields.io/badge/Youtube-%239146FF.svg?logo=Youtube&logoColor=white)](#)
+--->
+</h1>
 <p align="center">I Can never think of Subtitles! ⚡</p>
 <p align="center">Prnding updating both this and my blog subtitle 🚀</p>
-<p align="center">
+	
 
+<p align="center">
  <a href="https://www.buymeacoffee.com/" target="_blank"><img alt="" src="https://img.shields.io/badge/kawfee-61ffca?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000" style="vertical-align:center" /></a>
  <a href="https://youtube.com" target="_blank"><img alt="" src="https://img.shields.io/badge/Youtube-000?logo=youtube&logoColor=6319e5&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://twitter.com/" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=6319e5&style=for-the-badge" style="vertical-align:center" /></a>
@@ -48,6 +50,22 @@ You can click the Preview link to take a look at your changes.
 ![Spotify](http://localhost:5000/api/spotify)
 
 
+
+### Spotify Playing 🎧
+
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31hjqbmtekify3cpkryz7lvzjanu&cover_image=true&theme=novatorem&show_offline=true&background_color=000&bar_color=630fb8" align="center" height="120" width="50%" >
+
+[![Spotify](https://novatorem-git-main-marsuvesvexs-projects.vercel.app/api/spotify)](https://open.spotify.com/user/31hjqbmtekify3cpkryz7lvzjanu)
+
+[![Youtube](http://localhost:5000/youtube/recent-videos/UCQeRaTukNYft1_6AZPACnog?background_color=181414&border_color=282828)]
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=hamishfleming&currStreakNum=61ffca&hide_border=false&border=8464c6&background=000&sideLabels=adbac7&stroke=adbac7&ring=6319e5&fire=61ffca&sideNums=61ffca&currStreakLabel=61ffca&dates=6319e5)<br/>
+
+![](https://github-readme-stats.vercel.app/api?username=hamishFleming&show_icons=true&include_all_commits=true&count_private=true&title_color=61ffca&text_color=adbac7&icon_color=6319e5&border_color=8464c6&bg_color=000)<br/>
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamishfleming&t&show_icons=true&include_all_commits=true&count_private=true&title_color=61ffca&text_color=adbac7&icon_color=6319e5&border_color=8464c6&bg_color=110f18&layout=compact)
+
+
+
 [![Youtube](https://novatorem-git-main-marsuvesvexs-projects.vercel.app/youtube/recent-videos/UCsBjURrPoezykLs9EqgamOA)
 [![Youtube](https://localhost:5000/youtube/recent-videos/UCsBjURrPoezykLs9EqgamOA)]
 ![this]([http://0.0.0.0:5100/youtube/recent-videos/UCQeRaTukNYft1_6AZPACnog?rendered=true](http://0.0.0.0:5100/youtube/recent-videos/UCQeRaTukNYft1_6AZPACnog?rendered=true))
@@ -72,6 +90,17 @@ You can click the Preview link to take a look at your changes.
 </tr></table>
 
 <!-- <div align=center> -->
+
+
+<br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">Activity:</h3>
+
+![Supuna97's Graph](https://github-readme-activity-graph.vercel.app/graph?username=MarsuvesVex&custom_title=MarsuvesVex's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<br><br>
+
 
 </div>
 <!-- </div> -->
@@ -195,8 +224,8 @@ No Activity tracked this Week
 <p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" />
- <!-- <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
- <!-- <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
+ <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" />
+ <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97">
 </p>
 
 <div align="center">
