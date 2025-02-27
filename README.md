@@ -53,18 +53,18 @@ DenverCoder1 Icons
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](#)
 [![Youtube](https://img.shields.io/badge/Youtube-%239146FF.svg?logo=Youtube&logoColor=white)](#)
 --->
+
+
 </h1>
 <p align="center">I Can never think of Subtitles! ⚡</p>
 <p align="center">Prnding updating both this and my blog subtitle 🚀</p>
 	
 
 <p align="center">
- <a href="https://www.buymeacoffee.com/" target="_blank"><img alt="" src="https://img.shields.io/badge/kawfee-61ffca?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000" style="vertical-align:center" /></a>
- <a href="https://youtube.com" target="_blank"><img alt="" src="https://img.shields.io/badge/Youtube-000?logo=youtube&logoColor=6319e5&style=for-the-badge" style="vertical-align:center" /></a>
+ <a href="https://marsuvesvex.xyz/donate" target="_blank"><img alt="" src="https://img.shields.io/badge/kawfee-61ffca?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000" style="vertical-align:center" /></a>
+ <a href="https://www.twitch.tv/marsuvesvex?sub_confirmation=1" target="_blank"><img alt="" src="https://img.shields.io/badge/Youtube-000?logo=youtube&logoColor=6319e5&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://twitter.com/" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=6319e5&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://linkedin.com/in/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=6319e5&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://instagram.com/" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=6319e5" style="vertical-align:center" /></a></p>
-
 
 <!-- # 💫 About Me:
 
@@ -276,14 +276,8 @@ No Activity tracked this Week
     <a href="https://github.com/hungpham3112" target="_blank">
         <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/github.svg" alt=github style="margin-bottom: 5px;" />
     </a>
-    <a href="https://linkedin.com/in/hungpham3112" target="_blank">
-        <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/linkedin.svg" alt=linkedin style="margin-bottom: 5px;" />
-    </a>
     <a href="https://www.facebook.com/phamhung311202" target="_blank">
         <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/facebook.svg" alt=facebook style="margin-bottom: 5px;" />
-    </a>
-    <a href="mailto:phamhung20022015@gmail.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/gmail.svg" alt=gmail style="margin-bottom: 5px;" />
     </a>
 </p>
 <div class='container' align=center>
