@@ -14,7 +14,6 @@ You can click the Preview link to take a look at your changes.
 <!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
 </p>
 
-![Discord Banner 2](https://discord.com/api/guilds/1358866913819754526/widget.png?style=banner2)
 
 <!--
 DenverCoder1 Icons
@@ -121,11 +120,7 @@ DenverCoder1 Icons
 <td><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31hjqbmtekify3cpkryz7lvzjanu&cover_image=true&theme=novatorem&show_offline=false&background_color=000&bar_color=630fb8" align="center" height="90" ></td>
 </tr></table>
 -->
-
-.. image:: https://discord.com/api/guilds/336642139381301249/embed.png
-   :target: https://discord.gg/r3sSKJJ
-   :alt: Discord server invite
-
+![Discord Banner 2](https://discord.com/api/guilds/1358866913819754526/widget.png?style=banner2)
 
 
 <div align=center>
