@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-<h1 align="center"> Hi 👋🏻, I'm Marsuves Vex 
+<h1 align="center"> Hi 👋🏻, I'm Marsuves Vex
 <img alt="Twitch Status" src="https://img.shields.io/twitch/status/marsuvesvex?style=social&logo=twitch&logoColor=%236319e5&label=MarsuvesVex&labelColor=black&color=%236319e5&cacheSeconds=3600&link=https%3A%2F%2Fwww.twitch.tv%2Fmarsuvesvex">
 <br>
 <p align="center">
@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 <!--
 DenverCoder1 Icons
-<!-- Social icons section 
+<!-- Social icons section
 <p align="center">
   <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -33,12 +33,12 @@ DenverCoder1 Icons
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
-<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter 
+<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter
 <p align="center">
   <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
   <a href="https://www.youtube.com/c/DevProTips">
-    <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
+    <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a>
   <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DenverCoder1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/DenverCoder1?tab=followers">
@@ -58,7 +58,7 @@ DenverCoder1 Icons
 </h1>
 <p align="center">I Can never think of Subtitles! ⚡</p>
 <p align="center">Prnding updating both this and my blog subtitle 🚀</p>
-	
+
 
 <p align="center">
  <a href="https://marsuvesvex.xyz/donate" target="_blank"><img alt="" src="https://img.shields.io/badge/kawfee-61ffca?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000" style="vertical-align:center" /></a>
@@ -120,8 +120,8 @@ DenverCoder1 Icons
 
 
 
-<div align=center> 
-<details open> 
+<div align=center>
+<details open>
   <summary><h2>📺 Latest YouTube Videos</h2></summary>
 
   <!-- YouTube Cards - https://github.com/DenverCoder1/github-readme-youtube-cards -->
@@ -144,23 +144,22 @@ DenverCoder1 Icons
 </div>
 <!-- </div> -->
 <hr>
-<details open> 
+<details open>
   <summary><h2>🌠 Top Sponsors</h2></summary>
 
   <table>
     <tr>
-      <!-- <th>$10+/month</th> -->
       <th>$5+/month</th>
     </tr>
     <tr>
-<!--       $10+/month -->
-      <!-- <td>
-        <div align="center">
-          <a href="https://github.com/username"><img src="https://github.com/username" alt="@username" width="52" /></a>
-          <br />
-          <a align="center" href="https://github.com/username"><b>Full Name</b></a>
-        </b>
-      </td> -->
+      $10+/month
+      <td>
+	<div align="center">
+	  <a href="https://github.com/username"><img src="https://github.com/username" alt="@username" width="52" /></a>
+	  <br />
+	  <a align="center" href="https://github.com/username"><b>Full Name</b></a>
+	</b>
+      </td>
       <!-- $5+/month -->
       <td>
         <a href="https://github.com/typesense"><img src="https://custom-icon-badges.demolab.com/badge/-typesense-D90368?style=for-the-badge&logo=mention" alt="typesense" /></a>
@@ -240,7 +239,7 @@ No Activity tracked this Week
 ---
 
 
-<details> 
+<details>
   <summary><h2>📊 Stats and Activity</h2></summary>
 
   <h3 align="left">Activity:</h3>
@@ -250,7 +249,7 @@ No Activity tracked this Week
   <h3>🔥 Streak Stats</h3>
 
   <p>
-	  
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hamishfleming&currStreakNum=61ffca&hide_border=false&border=8464c6&background=000&sideLabels=adbac7&stroke=adbac7&ring=6319e5&fire=61ffca&sideNums=61ffca&currStreakLabel=61ffca&dates=6319e5)
 <br/>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
@@ -286,5 +285,3 @@ No Activity tracked this Week
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-
-
