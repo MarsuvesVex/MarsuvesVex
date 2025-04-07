@@ -164,9 +164,11 @@ DenverCoder1 Icons
 	  <!-- <a align="center" href="https://github.com/username"><b>Full Name</b></a> -->
 	</b>
       </td>
+      <!--
       <td>
         <a href="https://github.com/typesense"><img src="https://custom-icon-badges.demolab.com/badge/-typesense-D90368?style=for-the-badge&logo=mention" alt="typesense" /></a>
       </td>
+      -->
     </tr>
   </table>
 
