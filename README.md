@@ -28,7 +28,7 @@ DenverCoder1 Icons
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://dev.to/denvercoder1"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
+  <a href="https://marsuvesvex.xyz/donate"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
 <!--   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
 <!-- Social badges section -->
@@ -63,8 +63,8 @@ DenverCoder1 Icons
 <p align="center">
  <a href="https://marsuvesvex.xyz/donate" target="_blank"><img alt="" src="https://img.shields.io/badge/kawfee-61ffca?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000" style="vertical-align:center" /></a>
  <a href="https://www.twitch.tv/marsuvesvex?sub_confirmation=1" target="_blank"><img alt="" src="https://img.shields.io/badge/Youtube-000?logo=youtube&logoColor=6319e5&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://twitter.com/" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=6319e5&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://instagram.com/" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=6319e5" style="vertical-align:center" /></a></p>
+<a href="https://x.com/MarsuvesVex" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=6319e5&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://www.instagram.com/marsuvesvex/" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=6319e5" style="vertical-align:center" /></a></p>
 
 <!-- # 💫 About Me:
 
