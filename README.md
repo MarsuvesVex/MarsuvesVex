@@ -144,7 +144,7 @@ DenverCoder1 Icons
 <!-- END YOUTUBE-CARDS -->
   <!-- prettier-ignore-end -->
 
-  <a href="https://www.youtube.com/@MarsuvesVex?sub_confirmation=1"><img src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@MarsuvesVex?sub_confirmation=1"><img src="https://img.shields.io/badge/youtube-e00101.svg?style=for-the-badge&logo=youtube&logoColor=fffffflogo=video"/></a>
 </details>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
