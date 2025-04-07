@@ -145,14 +145,16 @@ DenverCoder1 Icons
 <!-- </div> -->
 <hr>
 <details open>
-  <summary><h2>🌠 Top Sponsors</h2></summary>
+  <!-- <summary><h2>🌠 Top Sponsors</h2></summary> -->
+  <summary><h2>
+  Sponsor Me ~ Know in your heart you have made the right choice here
+  </h2></summary>
 
   <table>
     <tr>
       <th>$5+/month</th>
     </tr>
     <tr>
-      $10+/month
       <td>
 	<div align="center">
 	  <a href="https://github.com/username"><img src="https://github.com/username" alt="@username" width="52" /></a>
