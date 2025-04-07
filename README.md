@@ -119,6 +119,7 @@ DenverCoder1 Icons
 <td><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31hjqbmtekify3cpkryz7lvzjanu&cover_image=true&theme=novatorem&show_offline=false&background_color=000&bar_color=630fb8" align="center" height="90" ></td>
 </tr></table>
 -->
+<iframe src="https://discord.com/widget?id=1358866913819754526&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 
 
