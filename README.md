@@ -10,9 +10,11 @@ You can click the Preview link to take a look at your changes.
 <br>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=MarsuvesVex&label=Profile%20views&color=6319e5&style=flat" alt="supun nanayakkara" />
-<img alt="Discord" src="https://img.shields.io/discord/1308772125120794654?style=social&logo=discord&logoColor=6319e5&labelColor=000&color=61ffca">
+<img alt="Discord" src="https://img.shields.io/discord/1358866913819754526?style=social&logo=discord&logoColor=6319e5&labelColor=000&color=61ffca">
 <!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
 </p>
+
+![Discord Banner 2](https://discord.com/api/guilds/1358866913819754526/widget.png?style=banner2)
 
 <!--
 DenverCoder1 Icons
