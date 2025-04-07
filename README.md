@@ -123,7 +123,12 @@ DenverCoder1 Icons
 
 <div align=center>
 
+<a href="https://discord.gg/Qfs4neSj" target="_blank">
+
 ![Discord Banner 2](https://discord.com/api/guilds/1358866913819754526/widget.png?style=banner2)
+
+</a>
+
 
 </div>
 
